@@ -1,13 +1,12 @@
-+++
-title = 'About Me'
-description = "Data Engineer | Machine Learning Enthuisiast "
-date = 2024-05-25T18:58:35-04:00
-draft = false
-featured_image = "/images/iu-indy-banner-desktop.jpg"
-menu = { main = { weight = 1 } }
-+++
-
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" >}}
+---
+title: "About Me"
+description: "Data Engineer | Machine Learning Enthuisiast"
+featured_image: '/images/iu-indy-banner-desktop.jpg'
+menu:
+  main:
+    weight: 1
+---
+{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Me" >}}
 
 _Introduction_ : Hello and welcome! I'm Dhanush Chandra Raju Anegondi, a passionate Data Scientist and Engineer. Here, you'll find a showcase of my latest projects, highlighting my work in data engineering, machine learning, and big data technologies. Dive in to explore my contributions, innovations, and the exciting solutions I've developed. Thank you for visiting, and I hope you find my projects insightful and inspiring!
 
