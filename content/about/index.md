@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Me" >}}
+{{< figure src="/hugowebsitedhanush.github.io/images/Victor_Hugo-Hunchback.jpg" title="Me" >}}
 
 _Introduction_ : Hello and welcome! I'm Dhanush Chandra Raju Anegondi, a passionate Data Scientist and Engineer. Here, you'll find a showcase of my latest projects, highlighting my work in data engineering, machine learning, and big data technologies. Dive in to explore my contributions, innovations, and the exciting solutions I've developed. Thank you for visiting, and I hope you find my projects insightful and inspiring!
 
