@@ -12,6 +12,6 @@ In this comprehensive project, a sophisticated movie recommendation system was d
 
 The analytical process encompassed detailed exploratory data analysis and feature engineering to optimize the models' performance. Hyperparameter tuning and cross-validation were conducted to ensure the reliability of the models. The effectiveness of the models was rigorously evaluated using RMSE as the metric. Visual insights were generated using various visualization tools, which illustrated the distribution of user ratings and the performance of different models, showcasing the project's success in creating a dynamic and effective recommendation system.
 
-{{< figure src="/hugowebsitedhanush.github.io/images/76889recommender-system-for-movie-recommendation.jpg" title=" " >}}
+{{< figure src="/hugowebsitedhanush.github.io/images/Movie Recommendation Engine NLP.jpg" title=" " >}}
 
 [Link to GitHub Repository](https://github.com/DhanushAnegondi/Recommendation-System/tree/main/Recommendation%20System)
