@@ -1,0 +1,43 @@
+title = "Dhanush Chandra"
+baseURL = "https://dhanushanegondi.github.io/hugowebsitedhanush.github.io/"
+languageCode = "en-us"
+theme = ["ananke"]
+#resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+canonifyURLs = true
+
+[languages]
+  [languages.en]
+    title = "Dhanush Chandra Raju Anegondi"
+    weight = 1
+    contentDir = "content/"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.fr]
+    title = "Dhanush Chandra"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  github = "https://github.com/DhanushAnegondi"
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/dhanush-chandra-raju-557513207/"
