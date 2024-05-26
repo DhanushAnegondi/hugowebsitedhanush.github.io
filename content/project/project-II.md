@@ -12,6 +12,6 @@ This project focuses on classifying sports images into various categories using 
 
 Training and evaluating these models revealed that EfficientNetB0 provided the best balance between accuracy and computational efficiency, while ResNet50 and InceptionV3 also showed strong performance. The project successfully demonstrated the power of deep learning and transfer learning in tackling complex image classification challenges, showcasing the benefits of using pre-trained models for achieving high accuracy and efficient performance.
 
-{{< figure src="/images/1_CnNorCR4Zdq7pVchdsRGyw.PNG" title="" >}}
+{{< figure src="/hugowebsitedhanush.github.io/images/1_CnNorCR4Zdq7pVchdsRGyw.PNG" title="" >}}
 
 [Link to GitHub Repository](https://github.com/DhanushAnegondi/Image_Classification)
