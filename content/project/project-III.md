@@ -14,6 +14,6 @@ The dashboard leverages Tableau’s powerful analytics capabilities, including c
 
 This project highlights the potential of Tableau to transform raw data into actionable insights, facilitating data-driven decision-making in urban mobility planning.
 
-{{< figure src="/images/Tableau Dashboard 1.PNG" title="Tableau dashboard" >}}
+{{< figure src="/hugowebsitedhanush.github.io/images/Tableau Dashboard 1.PNG" title="Tableau dashboard" >}}
 
 [Link to GitHub Repository](https://github.com/DhanushAnegondi/Data_Analysis_Bike)
