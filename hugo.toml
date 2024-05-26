@@ -2,7 +2,7 @@ title = "Dhanush Chandra"
 baseURL = "https://dhanushanegondi.github.io/hugowebsitedhanush.github.io/"
 languageCode = "en-us"
 theme = ["ananke"]
-#resourceDir = "../resources"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
