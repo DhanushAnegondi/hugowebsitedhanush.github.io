@@ -93,13 +93,6 @@
       <description>Hyderabad, India | October 2020 – July 2022 My time at Cognizant was where I truly learned the fundamentals of production data engineering. Working with financial services clients meant dealing with strict compliance requirements, massive data volumes, and zero tolerance for errors. Every pipeline had to be bulletproof because downstream systems were making real financial decisions based on our data.&#xA;Financial Data at Scale&#xA;The technical challenges were substantial—processing over 200GB of financial and customer data daily from a mix of cloud and on-premises sources.</description>
     </item>
     <item>
-      <title>Previous Experience Overview</title>
-      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/previous-experience/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/previous-experience/</guid>
-      <description>Building Foundations in Data Engineering From academic research platforms to enterprise financial systems - the experiences that shaped my approach to data engineering&#xA;🎓 Academic Data Platform Engineering Software Engineer - Data Platform | Indiana University January 2023 – May 2024 | Bloomington, IN&#xA;My role at Indiana University was where I learned to build production-grade data systems that serve both administrative and research needs. The technical challenge was creating a unified platform that could handle diverse academic data sources while maintaining university-grade security and compliance.</description>
-    </item>
-    <item>
       <title>ETL Developer - SiFY Technologies</title>
       <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/sify/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
