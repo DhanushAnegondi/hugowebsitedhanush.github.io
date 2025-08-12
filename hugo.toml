@@ -2,14 +2,14 @@ title = "Dhanush Chandra"
 baseURL = "https://dhanushanegondi.github.io/hugowebsitedhanush.github.io/"
 languageCode = "en-us"
 theme = ["ananke"]
-#resourceDir = "../resources"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-canonifyURLs = true
+
 
 [languages]
   [languages.en]

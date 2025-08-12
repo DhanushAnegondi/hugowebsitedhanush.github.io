@@ -14,6 +14,5 @@ To enhance the bot’s responsiveness and accuracy, I incorporated error handlin
 
 This implementation showcases the potential of combining OpenAI's cutting-edge LLM with Python's versatile programming environment to create intelligent and interactive applications.
 
-{{< figure src="/images/LLM.PNG" title="Chatbot" >}}
 
 [Link to GitHub Repository](https://github.com/DhanushAnegondi/Q-A_LLM)
