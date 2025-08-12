@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Dhanush Chandra Raju Anegondi</title>
+    <link>http://localhost:1313/hugowebsitedhanush.github.io/project/</link>
+    <description>Recent content in Project on Dhanush Chandra Raju Anegondi</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2024 11:13:32 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugowebsitedhanush.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Data Analyst Project</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iii/</link>
+      <pubDate>Thu, 16 May 2024 11:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iii/</guid>
+      <description>Bike Dataset Analysis In this project, I conducted a detailed analysis of a comprehensive bike dataset, focusing on trends and patterns that influence bike usage and operational efficiencies. Utilizing advanced features of Tableau, I created a dynamic dashboard that not only visualizes historical usage data but also provides interactive features for deeper analysis.&#xA;The dashboard leverages Tableau’s powerful analytics capabilities, including calculated fields, parameters, and filter actions to offer insights into peak usage times, route preferences, and customer behavior.</description>
+    </item>
+    <item>
+      <title>Project I: Uber Data Analysis</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-i/</link>
+      <pubDate>Thu, 09 May 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-i/</guid>
+      <description>Uber Data Analysis In this project, I conducted a comprehensive analysis of Uber trip data sourced from the NYC Taxi &amp;amp; Limousine Commission&amp;rsquo;s website. The process began with downloading the dataset and performing thorough data analysis using Python to uncover key insights and trends. After preprocessing the data, it was uploaded to a cloud storage bucket and made publicly accessible to facilitate further analysis and collaboration.&#xA;For the ETL operations, I utilized Mage AI to efficiently transform and load the data into BigQuery.</description>
+    </item>
+    <item>
+      <title>Project IV: Q&amp;A using LLM</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iv/</link>
+      <pubDate>Sun, 05 May 2024 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iv/</guid>
+      <description>Q&amp;amp;A Bot Using OpenAI&amp;rsquo;s LLM In this project, I developed a Q&amp;amp;A bot leveraging OpenAI&amp;rsquo;s language model (LLM). Using Python, I implemented a framework that interacts with the LLM to process and respond to user queries dynamically. The bot is designed to understand natural language input, using OpenAI&amp;rsquo;s advanced natural language processing capabilities to parse questions and retrieve accurate, contextually relevant answers.&#xA;To enhance the bot’s responsiveness and accuracy, I incorporated error handling and response optimization techniques.</description>
+    </item>
+    <item>
+      <title>Project II: Image Classification using CNN</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-ii/</link>
+      <pubDate>Wed, 17 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-ii/</guid>
+      <description>Image Classification This project focuses on classifying sports images into various categories using advanced deep learning models. We employed Convolutional Neural Networks (CNNs) and transfer learning techniques, utilizing the Sports Classification dataset from Kaggle. The dataset was preprocessed with image augmentation and normalization to improve model generalization. We implemented three models: ResNet50, InceptionV3, and EfficientNetB0, all pre-trained on ImageNet, which significantly enhanced their performance on our classification task.&#xA;Training and evaluating these models revealed that EfficientNetB0 provided the best balance between accuracy and computational efficiency, while ResNet50 and InceptionV3 also showed strong performance.</description>
+    </item>
+    <item>
+      <title>Project V: Recommendation System</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-v/</link>
+      <pubDate>Mon, 04 Mar 2024 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-v/</guid>
+      <description>MovieLens Recommendation System In this comprehensive project, a sophisticated movie recommendation system was developed using the extensive MovieLens dataset. By employing a blend of advanced machine learning models such as ALS for matrix factorization, neural collaborative filtering, and XGBoost, the system robustly predicts user preferences. The project also integrates a hybrid approach that combines the strengths of both collaborative and content-based filtering, enhancing the accuracy and personalization of recommendations.&#xA;The analytical process encompassed detailed exploratory data analysis and feature engineering to optimize the models&amp;rsquo; performance.</description>
+    </item>
+  </channel>
+</rss>

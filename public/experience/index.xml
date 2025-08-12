@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Dhanush Chandra Raju Anegondi</title>
+    <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/</link>
+    <description>Recent content in Experience on Dhanush Chandra Raju Anegondi</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugowebsitedhanush.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Engineer - Rocket Companies</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/rocket-companies/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/rocket-companies/</guid>
+      <description>Los Angeles, CA | July 2024 – August 2025 Working at Rocket Companies in the Core Digital Media team has been a deep dive into building robust, event-driven data infrastructure that powers real-time decision making for a fintech giant. The scale and complexity here taught me that elegant data engineering isn&amp;rsquo;t just about moving data—it&amp;rsquo;s about creating systems that business teams can trust and rely on.&#xA;Event Streaming Architecture That Actually Works</description>
+    </item>
+    <item>
+      <title>Research Assistant</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/research/</link>
+      <pubDate>Sat, 25 May 2024 23:43:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/research/</guid>
+      <description>(January 2024 - May 2024) I am deeply grateful to Professor Andreas Buekle and Katy Borner for the opportunity to delve into the HuBMAP and RUI projects.&#xA;HuBMAP, the Human BioMolecular Atlas Project, aims to develop a comprehensive atlas detailing every cell type in the human body using genomic, proteomic, and other biomarkers. The Anatomical Structures, Cell Types, and Biomarkers (ASCT+B) Tables, which utilize the Uber Anatomy Ontology (UBERON), are pivotal in organizing this vast amount of data.</description>
+    </item>
+    <item>
+      <title>Teaching Assistant</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/teaching/</link>
+      <pubDate>Sat, 25 May 2024 23:43:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/teaching/</guid>
+      <description>(August 2023 - May 2024) As a Teaching Assistant at Indiana University, I had the enriching opportunity to mentor and lead a group of 100 students.&#xA;I was actively involved in guiding students through practical coding exercises and data exploration projects using tools like PowerBI &amp;amp; Tableau. My role also involved facilitating weekly discussion sessions where I helped reinforce key concepts and addressed students&amp;rsquo; queries related to various data analysis topics, including temporal, geospatial, topical, and network data analysis.</description>
+    </item>
+    <item>
+      <title>Software Engineer - Data Platform</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/indiana-university/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/indiana-university/</guid>
+      <description>Indiana University, Bloomington, IN | January 2023 – May 2024 My role as a Software Engineer on the Data Platform team at Indiana University was where I first learned to build production-grade data systems that actually matter to people&amp;rsquo;s daily work. Working in an academic environment meant dealing with incredibly diverse data sources—from student information systems to research datasets—while maintaining the security and compliance standards of a major university.&#xA;Building Academic Data Infrastructure</description>
+    </item>
+    <item>
+      <title>Data Engineer - Cognizant Technology Solutions</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/cognizant/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/cognizant/</guid>
+      <description>Hyderabad, India | October 2020 – July 2022 My time at Cognizant was where I truly learned the fundamentals of production data engineering. Working with financial services clients meant dealing with strict compliance requirements, massive data volumes, and zero tolerance for errors. Every pipeline had to be bulletproof because downstream systems were making real financial decisions based on our data.&#xA;Financial Data at Scale&#xA;The technical challenges were substantial—processing over 200GB of financial and customer data daily from a mix of cloud and on-premises sources.</description>
+    </item>
+    <item>
+      <title>ETL Developer - SiFY Technologies</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/sify/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/sify/</guid>
+      <description>Hyderabad, India | September 2019 – September 2020 My first professional role at SiFY Technologies was where I learned that data engineering is much more than writing SQL queries—it&amp;rsquo;s about building reliable systems that other people depend on. As an ETL Developer working with financial and operational data, I discovered the importance of precision, documentation, and thinking beyond just making code work.&#xA;Learning Production ETL Development&#xA;Starting with batch ETL pipelines using Spark, Hive, and SQL to process around 50GB of daily operational and financial data, I learned that production systems require a different mindset than academic projects.</description>
+    </item>
+  </channel>
+</rss>

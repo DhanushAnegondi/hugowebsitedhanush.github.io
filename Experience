@@ -1,0 +1,102 @@
+TECHNICAL SKILLS
+Programming Languages: SQL, Python, Java.
+Cloud: Amazon Web Services (AWS S3, Athena, Glue, QuickSight , EC2 , Firehose , Kinesis, IAM , Cloudwatch), GCP 
+DevOps & Deployment : Docker , Kubernetes , Terraform , Git , CI/CD , Jenkins.
+Scripting & OS :  Shell Scripting , Bash , Linux , UNIX. 
+Big Data & BI: Hive, MapReduce, Apache Spark ,  PySpark , Hadoop , Kafka , Flink , MapReduce , Apache Airflow ,Power BI , Tableau. 
+Data Warehousing & Database : Snowflake , Amazon Redshift , Big Query , MySQL, Postgres, DynamoDB.
+PROFESSIONAL EXPERIENCE
+Data Engineer , Rocket Companies , Los Angeles, CA	              July 2024 – Aug 2025   
+•	Architected and optimized scalable ETL/ELT pipelines using Airflow, Snowflake, and AWS Glue, automating data ingestion from APIs, SFTP, and flat files across 20+ external partners—reduced manual interventions by 65% and improved data delivery SLAs.
+•	Engineered a high-throughput, real-time streaming solution leveraging AWS Kinesis, Firehose, Lambda, and S3 to process >5TB of event data daily into Snowflake, enabling business dashboards with sub-10s data freshness for 100+ stakeholders.
+•	Led end-to-end API integration platform—designed dynamic, config-driven ingestion workflows to onboard new partner data sources in hours (vs. days), accelerating go-to-market for marketing and affiliate teams.
+•	Enhanced data quality and observability by implementing custom validation suites (Python, in-house libraries) and automated regression tests, reducing downstream data errors by 70% and proactively alerting for anomalies and SLA breaches.
+•	Optimized Snowflake data models and Power BI reporting pipelines; redesigned key financial metrics layer, reducing query latency by 50% for 3TB+ transactional data and supporting self-service analytics.
+•	Spearheaded root cause analysis for production incidents (Airflow failures, cost discrepancies, data lags), driving long-term fixes that decreased recurring outages by 30%.
+Software Engineer – Data platform , Indiana University , Bloomington, IN	                  Jan 2023 – May 2024    
+•	Engineered automated data pipelines using AWS Redshift, S3, EC2-hosted Airflow, and Python to ingest, clean, and transform 1TB+ of multi-source data weekly, improving reliability and enabling secure analytics for Research Team.
+•	Developed and optimized ETL workflows (Airflow on EC2, Docker, Jenkins, GitLab) with robust IAM roles and S3 integrations, automating the delivery and partitioning of academic and operational data into Redshift.
+•	Automated deployment and monitoring of pipelines using Dockerized Airflow and CI/CD pipelines (Jenkins, GitLab), streamlining feature releases and minimizing production rollbacks.
+•	Designed Redshift data models (star schema, SCD logic) to unify and accelerate access to diverse campus data, reducing dashboard query times by 50% and enabling more agile reporting.
+•	Implemented role-based access controls and resource monitoring using AWS IAM and CloudWatch to ensure security and efficient scaling for both data pipelines and user workloads.
+Data Engineer , Cognizant Technology Solutions , Hyderabad, India                                                                                             Oct 2020 - Jul 2022
+•	Developed and maintained scalable ETL/ELT workflows using PySpark, Postgres, and Airflow to ingest and harmonize 200GB+ of financial and customer data daily from cloud/on-prem sources, cutting data prep time by 30%.
+•	Built streaming data pipelines leveraging Kafka, PySpark, and AWS S3 to power real-time analytics for risk and operations teams, delivering timely event data with 99.9% completeness.
+•	Designed and optimized reporting data marts in Postgres, collaborating with business teams to enable efficient, self-service reporting and improve key metric accuracy by 20%.
+•	Implemented CI/CD automation for pipeline deployments (Jenkins, Docker, Git), enabling rapid, reliable releases and reducing production incident rates.
+•	Automated data quality and reconciliation checks in Python and SQL, reducing monthly data errors and improving compliance audit outcomes.
+•	Supported ad-hoc analytics and troubleshooting for production ETL issues, partnering with cross-functional teams to resolve incidents and streamline delivery for end users.
+ETL Developer , SiFY Technologies , Hyderabad, India                                                                                                                             Sep2019 – Sep 2020
+•	Contributed to the design and development of batch ETL pipelines using Spark, Hive, and SQL to automate ingestion and transformation of ~50GB/day of operational and financial data, supporting regulatory and internal reporting.
+•	Participated in data quality checks by developing validation queries in Python and SQL, which improved issue detection rates and helped reduce incident escalations.Adopted CI/CD practices (Jenkins, Git), contributing to faster, more reliable deployments and learning modern release workflows.                                                                                                                                                                                                                                 
+PROJECTS
+Generative AI Knowledge Extraction | Python, FastAPI, LangChain, OpenAI GPT, AWS Lambda                                                 Feb 2025 -Mar 2025
+•	Built RESTful APIs and microservices for document upload, chunking, embedding generation, and context-aware retrieval, supporting sub-second query latency across millions of documents.
+•	Designed distributed pipelines (Airflow, AWS Lambda) for automated ingestion, model inferencing, and continuous retraining as new data arrives, with results persisted in Snowflake for downstream analytics.
+
+
+High-Volume Event Streaming Platform | Kafka, Kinesis, Flink, Python, Docker, 
+Terraform                                                              Nov 2024 – Dec 2024
+•	Architected and implemented a generic, fault-tolerant event streaming backbone for ingesting and processing user and system events at 50K+/sec scale.
+•	Enabled seamless onboarding of new event types through schema-driven configuration, reducing engineering time-to-market for analytics features.
+
+
+THIS WAS MY ROCKET COMPANY EXPERIENCE:
+
+These are the tools used at this company:
+Tools Used in Core digital media: Airflow , Snowflake , Gitlab , Jenkins , Testrail , Python , SQL , linux , EC2 , S3 , Kinesis , Firehose , Lambda , Strands , AI Agents , Power BI , Postgres SQL , Docker , Kafka , API integration , Google Analytics , Google Search Console , GCP ( Big Query , Cloud Storage ). FileZilla Pro , Everflow , claravine , optimizely.
+Native Libraries that were used to support the processes , applications , ETL pipelines , SQL scripts execution etc
+in-house Libraries : Piggy ( to flatten the data into JSON format ) , ETL Verify ( to check if the source data is matching with the target data - tables. this is used as tasks in airflow - assigned at the beginning and end of tasks ). DB Launcher ( in house library connects to snowflake and executes the SQL files , instead of repeatedly calling the snowflake connector in airflow code , this comes in handy ( correct me if i’m wrong ) ). Eagle Eye ( this is an alerting library we set to alert the team and business users for the required test cases or conditions like if CDC data is not matching with the EDW data ( final table ) , Long running DAG’s , Power BI SLA Alerts , DAG failure notifications etc ) these are sent via email and pager duty notification. Data Observability framework , Sentinel Auto regression test suite.
+
+To give you more context on what i have worked here : there are few important projects that i was involved in :
+Context:
+This is the work that i have done at core digital media.
+worked on events API streaming data into EDW. the AWS components used are AWS Kinesis - Engineering Team will stream event payloads from engineering AWS accounts Eventbridge to kinesis stream in BI account. Firehose will be delivering streams from kinesis to snowflake. S3 bucket where data which failed to process to snowflake will be backed up.
+Campaign :
+{
+"eventType" : "campaign",
+"version" : 1,
+"Schema" : "[s3.aws.com/campaign_v1.json](http://s3.aws.com/campaign_v1.json)",
+"idempotenceID" : "4f88hdy8-816a-2e44-84848-4848393jei03",
+"data" : {
+"userID" : "12y12679123679712637162",
+"VisitorID" : "9812649712bhiuasidgasg21638917263",
+"marketingClickID" : "98127987higiuygi173612786378iuhg",
+"marketingOfferId" : 12312,
+"sourceID" : "fbSource",
+"pkey1" : "string1",
+"pkey2" : "string2",
+"pkey3" : "string3",
+"pkey4" : "string4"
+}
+}
+Steps of Streaming mechanism - events are emitted from browser to shared-bff , shared-bff to package/validate the data and call AWS API Gateway , single endpoint on AWS API Gateway with attached schema to validate meta-data of the event : Event Type , version , idempotenceID , schema , the data field will only be validated by lambda in next step.
+
+- Lambda validation function in the event bridge pipe to use the schema field of the event to validate the data object. if the validation is true : data is pushed to kinesis stream , if validation is false : data is dropped : need to figure out how to write proper end to end integration test for this since API Gateway might reply with 200 OK status , but event could get dropped by lambda filter
+Event data duplication
+- BI and future downstream clients will be responsible to handle duplicate events,duplicate event, is an event on its own and should not be filtered by the data collection pipeline ,every event will have an idempotenceld. events that have the same value for idempotenceld should be considered duplicate and handled appropriately.
+- Event versioning : every event will have a version field and eventType field that will indicate what information will be present in the data object.clients consuming the events should have mechanism to appropriately handle the event versioning we should be free to change the contents data object without fear the clients (BI) breaking, as long as a new version is provided, i.e. the contents of data are only guaranteed by its version and eventType
+- Data tracking for engineering : if time permits, we might also dump the event data into DynamoDB ,data analysis, anomaly detection , potential location for data aggregation, ability to do proper end-to-end integration tests
+- Generic mechanism for event streaming ,new events can be added without any code change to the back-end pipeline ,new services can be added to listen to the output stream, i.e. aggregation-service , serverless pipeline approach.
+- Rollout strategy proposal to data collection
+Phase 1: SEO site only
+Phase 2: lead forms
+Phase 3: decommission existing Analytical-Service
+
+This is one of the project, that involves AWS tech stack and few other important things. This is one of the automated regression test framework:
+
+Was part of the development where we had developed an automated regression testing framework for our Enterprise Data Warehouse. When test cases are defined as code , they become more maintainable , version controlled and collaborative. using “ Sentinel “ for regression testing as the penultimate testing before deploying any new code to production environment.
+Types of Test Cases : Sentinel is designed to have comprehensive test coverage by the following 3 test cases:
+
+1. SQL Based : test would be executing a SQL based check eg. MINUS operation or COUNT (*)
+2. Process Triggers : test would execute a DAG that processes a file and validates source file data vs target table.
+3. [Future Scope] API Reconcillilation : Comparing agg’d numbers in various API’s vs EDW eg: Everflow API vs Calculated Cost , Smartly API vs Calculated Cost.
+High Level Flow :
+4. Execute Test cases : SQL based tests - Run SQL & store results , passed if output row count ≤ threshold else Failed
+5. Process trigger Tests : Trigger DAG to process file from source file path , compare target table vs file JSON
+6. API Reconciliation tests : Trigger API scripts using source code metadata , compare target table with API Response.
+Write the results to AUDIT TABLE & send email with results.
+SDLC : Feature branch ———→ Development ———→ Regression ————> Master/Main
+Existing SDLC of feature branch → dev branch with dev in DEV , testing & UAT in QA env . once QA is done developer will merge to new “regression” brach in repo. Developer will run sentinel for respective repo. if all the test cases pass , regression → master can be merged as part of deployment.
+
+These are My responsibilities included - solving production issues with the Airflow failures , Business user’s requirement - like cost mismatch , leads missing from the Final tables. Designed and implemented the 10+ dags where i have created a template DAG for Partner specific that processes the File based on the requirement this has involved the Config driven approach where i have parameterized the data , and dynamic SQL generation on the fly based on the config. Made a huge change in Data model consumption in Power BI - previously the Google Analytics Data was taken directly from the Tables without materializing the view it was calculating the metrics at user ID , session ID level but after creating a view at pre aggregated level has reduced the size significantly and fulfilled the requirement. implemented Events API project , Claravine Project. optimized the SQL scripts by identifying bottlenecks in them , parameterized the whole schema configuration that way the migration can be easy from one DB to another. wrote API scripts for multiple partners to download and load the data into EDW & Snowflake. Wrote preprocessing scripts using python for data cleaning and data quality handling. used AWS services. GCP ( Big Query ). Big Query was used to download the RocketMortgage Data from multiple companies / bodies and load them into BQ and then load them to Snowflake. Wrote funcitions , tasks , streams , procedures in snowflake for Database Migration. increased the team productivity by analyzing the recurring issues from prod and resolved or found a resolution to them. drove the profit by X factor - it is basically a fintech company mainly deals with Housing details , customers details , form details , Leads , inquiry , marketing metrics , creative vertical , plans, providers , events , CE attributes. basically a customer landing on a QuickenLoans or Money would redirect them to a form based on requirement and the conversion of the that inquiry ( gathering session details , Click ID , time spent , Scroll Depth etc ) would be generating the revenue. we do have affiliates , marketing team to drive the business and bring in the leads and perform the marketing based on the data , we will be retaining the customers based on their data from form or any one of the affiliates. Created 20+ reports for business users to track the spending the money on the lead buying and money spent on the purchasing the data from them or leading the leads to their service ( you know what to mention here ) using power BI , report Builder etc ( know very deep about PBI and how to use it , deploy it across workspaces with the changes ). Changed the Data model based on the requirement , migrated the Tables from Oracle to Postgres based on the BI needs ( will provide more details on this as well ). SQL , Python was most used things in this job and linux commands were also part of this. i have used terraform scripts to use the AWS services for claravine which is Firehose , Kinesis ( you need to confirm it and proceed with it ). coming up with very logical and quick resolution and very efficient solutions during the failure was one of the main part of the job. Used CI/CD , Docker as well. while on the Database migration project : it was involving heavy AWS stack like DMS , SCT , EC2 , Dcoker etc. I’m including all these because i want you understand and give me the most and the best curated bullet points for this experience that i can include them in my resume. what ever you are generating the points it has to stand against ATS and parse it through the AI that they are using to read the resume. I have also worked on API Integration for partners to download their Data which would save a lot of time , and made the data available to business users within 1hr of download. Ensured data quality by implementing automated validation scripts in Python.s

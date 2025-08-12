@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is my Data Science Portfolio on Dhanush Chandra Raju Anegondi</title>
+    <link>http://localhost:1313/hugowebsitedhanush.github.io/</link>
+    <description>Recent content in This is my Data Science Portfolio on Dhanush Chandra Raju Anegondi</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugowebsitedhanush.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Engineer - Rocket Companies</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/rocket-companies/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/rocket-companies/</guid>
+      <description>Los Angeles, CA | July 2024 – August 2025 Working at Rocket Companies in the Core Digital Media team has been a deep dive into building robust, event-driven data infrastructure that powers real-time decision making for a fintech giant. The scale and complexity here taught me that elegant data engineering isn&amp;rsquo;t just about moving data—it&amp;rsquo;s about creating systems that business teams can trust and rely on.&#xA;Event Streaming Architecture That Actually Works</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/contact/</link>
+      <pubDate>Sat, 25 May 2024 23:43:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/contact/</guid>
+      <description> Your Name Email Address An email address is required. Message </description>
+    </item>
+    <item>
+      <title>Research Assistant</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/research/</link>
+      <pubDate>Sat, 25 May 2024 23:43:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/research/</guid>
+      <description>(January 2024 - May 2024) I am deeply grateful to Professor Andreas Buekle and Katy Borner for the opportunity to delve into the HuBMAP and RUI projects.&#xA;HuBMAP, the Human BioMolecular Atlas Project, aims to develop a comprehensive atlas detailing every cell type in the human body using genomic, proteomic, and other biomarkers. The Anatomical Structures, Cell Types, and Biomarkers (ASCT+B) Tables, which utilize the Uber Anatomy Ontology (UBERON), are pivotal in organizing this vast amount of data.</description>
+    </item>
+    <item>
+      <title>Teaching Assistant</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/teaching/</link>
+      <pubDate>Sat, 25 May 2024 23:43:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/teaching/</guid>
+      <description>(August 2023 - May 2024) As a Teaching Assistant at Indiana University, I had the enriching opportunity to mentor and lead a group of 100 students.&#xA;I was actively involved in guiding students through practical coding exercises and data exploration projects using tools like PowerBI &amp;amp; Tableau. My role also involved facilitating weekly discussion sessions where I helped reinforce key concepts and addressed students&amp;rsquo; queries related to various data analysis topics, including temporal, geospatial, topical, and network data analysis.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/about/</link>
+      <pubDate>Sat, 25 May 2024 18:58:35 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/about/</guid>
+      <description>Introduction : Hello and welcome! I&amp;rsquo;m Dhanush Chandra Raju Anegondi, a passionate Data Scientist and Engineer. Here, you&amp;rsquo;ll find a showcase of my latest projects, highlighting my work in data engineering, machine learning, and big data technologies. Dive in to explore my contributions, innovations, and the exciting solutions I&amp;rsquo;ve developed. Thank you for visiting, and I hope you find my projects insightful and inspiring!&#xA;I hold a Master of Science in Data Science from Indiana University Bloomington and a Bachelor of Electronics Engineering from Anurag University.</description>
+    </item>
+    <item>
+      <title>Project III: Data Analyst Project</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iii/</link>
+      <pubDate>Thu, 16 May 2024 11:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iii/</guid>
+      <description>Bike Dataset Analysis In this project, I conducted a detailed analysis of a comprehensive bike dataset, focusing on trends and patterns that influence bike usage and operational efficiencies. Utilizing advanced features of Tableau, I created a dynamic dashboard that not only visualizes historical usage data but also provides interactive features for deeper analysis.&#xA;The dashboard leverages Tableau’s powerful analytics capabilities, including calculated fields, parameters, and filter actions to offer insights into peak usage times, route preferences, and customer behavior.</description>
+    </item>
+    <item>
+      <title>Project I: Uber Data Analysis</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-i/</link>
+      <pubDate>Thu, 09 May 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-i/</guid>
+      <description>Uber Data Analysis In this project, I conducted a comprehensive analysis of Uber trip data sourced from the NYC Taxi &amp;amp; Limousine Commission&amp;rsquo;s website. The process began with downloading the dataset and performing thorough data analysis using Python to uncover key insights and trends. After preprocessing the data, it was uploaded to a cloud storage bucket and made publicly accessible to facilitate further analysis and collaboration.&#xA;For the ETL operations, I utilized Mage AI to efficiently transform and load the data into BigQuery.</description>
+    </item>
+    <item>
+      <title>Project IV: Q&amp;A using LLM</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iv/</link>
+      <pubDate>Sun, 05 May 2024 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-iv/</guid>
+      <description>Q&amp;amp;A Bot Using OpenAI&amp;rsquo;s LLM In this project, I developed a Q&amp;amp;A bot leveraging OpenAI&amp;rsquo;s language model (LLM). Using Python, I implemented a framework that interacts with the LLM to process and respond to user queries dynamically. The bot is designed to understand natural language input, using OpenAI&amp;rsquo;s advanced natural language processing capabilities to parse questions and retrieve accurate, contextually relevant answers.&#xA;To enhance the bot’s responsiveness and accuracy, I incorporated error handling and response optimization techniques.</description>
+    </item>
+    <item>
+      <title>Project II: Image Classification using CNN</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-ii/</link>
+      <pubDate>Wed, 17 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-ii/</guid>
+      <description>Image Classification This project focuses on classifying sports images into various categories using advanced deep learning models. We employed Convolutional Neural Networks (CNNs) and transfer learning techniques, utilizing the Sports Classification dataset from Kaggle. The dataset was preprocessed with image augmentation and normalization to improve model generalization. We implemented three models: ResNet50, InceptionV3, and EfficientNetB0, all pre-trained on ImageNet, which significantly enhanced their performance on our classification task.&#xA;Training and evaluating these models revealed that EfficientNetB0 provided the best balance between accuracy and computational efficiency, while ResNet50 and InceptionV3 also showed strong performance.</description>
+    </item>
+    <item>
+      <title>Project V: Recommendation System</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/project/project-v/</link>
+      <pubDate>Mon, 04 Mar 2024 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/project/project-v/</guid>
+      <description>MovieLens Recommendation System In this comprehensive project, a sophisticated movie recommendation system was developed using the extensive MovieLens dataset. By employing a blend of advanced machine learning models such as ALS for matrix factorization, neural collaborative filtering, and XGBoost, the system robustly predicts user preferences. The project also integrates a hybrid approach that combines the strengths of both collaborative and content-based filtering, enhancing the accuracy and personalization of recommendations.&#xA;The analytical process encompassed detailed exploratory data analysis and feature engineering to optimize the models&amp;rsquo; performance.</description>
+    </item>
+    <item>
+      <title>Software Engineer - Data Platform</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/indiana-university/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/indiana-university/</guid>
+      <description>Indiana University, Bloomington, IN | January 2023 – May 2024 My role as a Software Engineer on the Data Platform team at Indiana University was where I first learned to build production-grade data systems that actually matter to people&amp;rsquo;s daily work. Working in an academic environment meant dealing with incredibly diverse data sources—from student information systems to research datasets—while maintaining the security and compliance standards of a major university.&#xA;Building Academic Data Infrastructure</description>
+    </item>
+    <item>
+      <title>Data Engineer - Cognizant Technology Solutions</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/cognizant/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/cognizant/</guid>
+      <description>Hyderabad, India | October 2020 – July 2022 My time at Cognizant was where I truly learned the fundamentals of production data engineering. Working with financial services clients meant dealing with strict compliance requirements, massive data volumes, and zero tolerance for errors. Every pipeline had to be bulletproof because downstream systems were making real financial decisions based on our data.&#xA;Financial Data at Scale&#xA;The technical challenges were substantial—processing over 200GB of financial and customer data daily from a mix of cloud and on-premises sources.</description>
+    </item>
+    <item>
+      <title>ETL Developer - SiFY Technologies</title>
+      <link>http://localhost:1313/hugowebsitedhanush.github.io/experience/sify/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugowebsitedhanush.github.io/experience/sify/</guid>
+      <description>Hyderabad, India | September 2019 – September 2020 My first professional role at SiFY Technologies was where I learned that data engineering is much more than writing SQL queries—it&amp;rsquo;s about building reliable systems that other people depend on. As an ETL Developer working with financial and operational data, I discovered the importance of precision, documentation, and thinking beyond just making code work.&#xA;Learning Production ETL Development&#xA;Starting with batch ETL pipelines using Spark, Hive, and SQL to process around 50GB of daily operational and financial data, I learned that production systems require a different mindset than academic projects.</description>
+    </item>
+  </channel>
+</rss>
